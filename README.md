@@ -4,7 +4,7 @@ A simple and responsive web application for managing and tracking family expense
 
 ## Live Demo
 
-The project is deployed using GitHub Pages.
+[View Live Demo](https://saivivekp06.github.io/family-expense-tracker/).
 
 ## Project Overview
 
